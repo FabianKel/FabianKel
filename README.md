@@ -39,7 +39,6 @@ Hello, I'm Derek Arreaga also known as FabianKel on GitHub. I'm currently pursui
   <div style="padding-right:15px;">
     <h3>Conocimientos Generales</h3>
     <li><img src="icons/cpp.svg" alt="C++ Icon" width="20" height="20"> C++</li>
-    <li>🤖 Assembly</li>
   </div>
 </div>
 
