@@ -2,7 +2,7 @@
 # Derek Arreaga
 
 ## About Me
-Hello, I'm Derek Arreaga also known as FabianKel on GitHub. I'm currently pursuing my third year of studies in Computer Science Engineering. I consider myself an evolving software engineer, aiming to become a full-stack developer in the future.
+Hello, I'm Derek Arreaga also known as FabianKel on GitHub. I'm currently pursuing my fifth and last year of studies in Computer Science Engineering. I consider myself an evolving software engineer, aiming to become a full-stack developer in the future.
 .
 
 ## My Skills
